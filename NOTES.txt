@@ -42,11 +42,11 @@ Train the decoder:
 
 Train with the duration predictor:
 
-    cp configs/config_ljs_radtts.json config_ljs_radtts.json
+    cp configs/config_ljs_agap.json config_ljs_agap.json
 
-    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur"
+    python3 train.py -c config_ljs_agap.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur"
 
-    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_agap.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
 
 
 Run tensorboard
