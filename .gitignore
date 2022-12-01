@@ -5,6 +5,7 @@ __pycache__
 models/
 outdir/
 outdir_pp/
+outdir_pp_model/
 outdir_model/
 data_cache/
 

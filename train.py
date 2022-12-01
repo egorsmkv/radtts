@@ -148,7 +148,7 @@ def prepare_dataloaders(data_config, n_gpus, batch_size):
     if n_gpus > 1:
         train_sampler, shuffle = DistributedSampler(trainset), False
 
-    train_loader = DataLoader(trainset, num_workers=8, shuffle=shuffle,
+    train_loader = DataLoader(trainset, num_workers=0, shuffle=shuffle,
                               sampler=train_sampler, batch_size=batch_size,
                               pin_memory=False, drop_last=True,
                               collate_fn=collate_fn)
