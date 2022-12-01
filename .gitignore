@@ -7,6 +7,7 @@ outdir/
 data_cache/
 
 config_ljs_radtts.json
+config_ljs_decoder.json
 
 tensorboard.out
 training_1st_stage.out

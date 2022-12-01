@@ -34,13 +34,15 @@ TRAINING
 
 Train the decoder:
 
-    cp configs/config_ljs_radtts.json config_ljs_radtts.json
+    cp configs/config_ljs_decoder.json config_ljs_decoder.json
 
-    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir
+    python3 train.py -c config_ljs_decoder.json -p train_config.output_directory=outdir
 
-    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir > training_1st_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_decoder.json -p train_config.output_directory=outdir > training_1st_stage.out 2>&1 &
 
 Train with the duration predictor:
+
+    cp configs/config_ljs_radtts.json config_ljs_radtts.json
 
     python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur"
 
