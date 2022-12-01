@@ -1,0 +1,9 @@
+dataset_lada_trimmed
+
+__pycache__
+
+models/
+outdir/
+data_cache/
+
+config_ljs_radtts.json

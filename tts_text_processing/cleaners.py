@@ -107,6 +107,9 @@ class Cleaner(object):
             sequence_fns = [collapse_whitespace, expand_currency,
                             expand_datestime, expand_letters_and_numbers]
             word_fns = [expand_numbers, expand_abbreviations]
+        elif cleaner_name == 'ukrainian_cleaners':
+            sequence_fns = [lowercase, collapse_whitespace]
+            word_fns = []
         elif cleaner_name == 'transliteration_cleaners':
             sequence_fns = [convert_to_ascii, lowercase, collapse_whitespace]
         else:

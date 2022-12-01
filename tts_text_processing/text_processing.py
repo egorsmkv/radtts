@@ -38,8 +38,12 @@ class TextProcessing(object):
         else:
             self.heteronyms = []
         # phoneme dict
-        self.phonemedict = Grapheme2PhonemeDictionary(
-            phoneme_dict_path, encoding=encoding)
+        if phoneme_dict_path:
+            self.phonemedict = Grapheme2PhonemeDictionary(
+                phoneme_dict_path, encoding=encoding)
+        else:
+            self.phonemedict = {}
+
         self.p_phoneme = p_phoneme
         self.handle_phoneme = handle_phoneme
         self.handle_phoneme_ambiguous = handle_phoneme_ambiguous

@@ -16,3 +16,6 @@ webrtcvad
 torch
 torchaudio
 git+https://github.com/jfsantos/maracas@master#egg=maracas
+tensorboard
+lmdb
+gdown

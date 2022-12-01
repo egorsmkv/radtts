@@ -1,0 +1,63 @@
+/home/yehor/radtts/dataset_lada_trimmed/accept/48848.wav|Споча́тку вона́ нарахува́ла двох, по́тім — п'ять, наре́шті — ві́сім.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48849.wav|Мандрівники́ впе́рто відмовля́лися.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48850.wav|Він узя́в соки́ру й го́стрим кінце́м поча́в розва́жувати зу́би.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48851.wav|Розгрі́бши сніг, тро́хи просу́нув го́лову й пле́чі під шатро́.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48853.wav|Але́ раз заси́дівся до пі́знього ве́чора.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48854.wav|То ж не дим їй о́чі роз'їда́в, бо дро́ва були́ сухі́.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48855.wav|Вона́ не ма́ла тепе́р су́мніву, що в Портоса з да́мою була́ інтри́га.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48857.wav|Хо́чуть Украї́ну з під ля́хів визволя́ти.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48858.wav|Там жінка́м не ду́же догоджа́ють.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48859.wav|І бу́дьте спокі́йні! Якщо́ вино́ нам не сподо́бається, ми пошлемо́ по і́нше.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47868.wav|Наш ґасконець сте́жив за не́ю і ба́чив, куди́ вона́ подала́ся.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47869.wav|А лю́ди, як дізна́лися, то й почали́ вчаща́ти за по́зичкою.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47870.wav|— Як то? — вже з невдово́ленням спита́в пан Андрі́й.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47871.wav|— Ще раз верта́йся за гарма́тами! — одгукну́в До́вбня.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47874.wav|Все це, коли́ сказа́ти вам по пра́вді, панно́́ Маню́, ані́ кри́хти не звору́шує мене́.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47875.wav|Почервоні́в, як мі́день, Гвинтовка.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47876.wav|— А чия́ ж це кімна́та? — спита́в Д'Артаньян.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47877.wav|— Чи чува́в ти, бра́тику, щоб миш одку́сила коли́ го́лову чолові́кові?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47878.wav|Ми зна́ємо цю істо́рію.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47879.wav|Мушкете́ри вклони́лися, нахили́вшись аж до кі́нських трив.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47880.wav|Диві́ться ж, щоб цю люди́ну звільни́ти, і щоб не ста́лося з не́ю ли́хо яке́сь.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47881.wav|— Проте́, я хоті́в би до́бре зрозумі́ти її! — вки́нув сло́во Портос.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47882.wav|Ченці́ їх проводжа́ли.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47883.wav|Я вже й так бою́сь, щоб че́рез тебе́ товари́ство мене́ не одцура́лось.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47884.wav|Ми да́чі не даєм,.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35418.wav|— Вони́ застре́лять вас, мій дру́же.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35419.wav|— Алеж я вас не зна́ю і не хо́чу! — скри́кнула я до нього.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35421.wav|Сиджу́ за газе́тою, коли́ підві́в о́чі, поба́чив її.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35422.wav|Підві́вши до́вгу мо́рду до не́ба, заво́див протяжно і жа́лібно.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35423.wav|Ба́зен пої́хав на дру́гий день вра́нці.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35424.wav|Він упа́в навко́лішки, схопи́в цю ру́ку й шанобли́во доторкну́вся до не́ї губа́ми.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35425.wav|Вона́ впа́ла навзна́к і, здава́лось, зомлі́ла.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35426.wav|— Ну, пропусті́те ж нас, коли́ так,— ка́же Шрам.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35428.wav|Д'Артаньян стоя́в нерухо́мий і приму́сив супроти́вника ступи́ти крок наза́д.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35429.wav|Я сиді́ла в їда́льні і сні́дала.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35431.wav|Ви зна́єте, напр.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35432.wav|І вона́, знеси́лена, впа́ла на гру́ди молодо́го офіце́ра.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35433.wav|Оди́н із молоди́х інді́йців схопи́в спи́са і став напогото́ві.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35434.wav|— А мо́же до яко́го ґа́зди?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35436.wav|Звелі́ла ї́хати шви́дше, щоб наздогна́ти свої́х.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35437.wav|але́ запі́зно, — Д'Артаньян впізна́в па́ні Бонасьє.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35440.wav|— А че́рез що ти б'є́шся, Атосе? — спита́в Араміс.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35443.wav|Ле́ся поблагослови́лась і піднесла́.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35444.wav|— За́втра, за́раз, коли́ ви побажа́єте!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35445.wav|— Опі́вдні! До́бре, я бу́ду.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25158.wav|Поба́чимо, чия́ бу́де си́ла!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25159.wav|— Хто ви таки́й і що вам тре́ба? — ви́гукнула вона́.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25160.wav|— Я та́ко́ж б'ю́ся з ним, — промо́вив, наближа́ючись, Араміс.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25161.wav|— Ні, не спи́тувалась, та її спра́ва окре́ма.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25162.wav|— То я пови́нен зна́ти, де ваш пісо́к.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25163.wav|— Ми ще поба́чимось, па́не, чи не так?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25164.wav|— Та хто ж її вкрав?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25165.wav|— У мене́ нема́ ані́ покої́вок, ані́ льокаїв.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25166.wav|— Бері́ть мою́ ру́ку, — переби́в чужозе́мець, — і ході́м.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25167.wav|— Пізні́ше, — відказа́в Атос, — мені́ тре́ба вжи́ти де́яких за́ходів.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25168.wav|А вра́жий запоро́жець аж за боки́ бере́ться, рего́чучи.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25169.wav|— Дурни́ці! Це все дрібни́ці.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25170.wav|— Та що! Під'ї́хали нас бра́тчики так, що ті́лько ушима стрепену́ли!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25171.wav|— Овва́, — відпові́в Д'Артаньян, — це тому́, що я найбезтала́нніший з усі́х вас.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25172.wav|— У протиле́жному кінці́ мі́ста.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25173.wav|— Да́йте мені́ соки́ру!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25174.wav|— Так там же на́ші, козаки́!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25175.wav|— Я слу́хаю вас, — сказа́в той.|ljs

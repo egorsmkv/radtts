@@ -1,0 +1,44 @@
+My GPU: NVIDIA RTX A4000
+Python: 3.8.13
+
+Install system packages:
+
+    sudo apt update
+    sudo apt install python3-pip
+
+Install dependencies:
+
+    pip install -r requirements.txt
+
+Using dataset:
+
+    URL: https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/lada
+    Archive: dataset_lada_trimmed_22khz.zip
+
+    wget https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_22khz.zip
+    unzip dataset_lada_trimmed_22khz.zip
+
+Download HiFiGAN
+
+    mkdir models
+    cd models
+    ~/.local/bin/gdown --fuzzy https://drive.google.com/file/d/1lD62jl5hF6T5AkGoWKOcgMZuMR4Ir76d/view
+    ~/.local/bin/gdown --fuzzy https://drive.google.com/file/d/1WRtyvkmQxlYShkeTwWmlj7_WiS70R7Jb/view
+
+    mv hifigan_libritts100360_generator0p5.pt hifigan_ljs_generator_v1.pt
+
+
+====
+
+TRAINING
+
+Train the decoder:
+
+    cp configs/config_ljs_radtts.json config_ljs_radtts.json
+
+    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir
+
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir > training_1st_stage.out 2>&1 &
+
+
+
