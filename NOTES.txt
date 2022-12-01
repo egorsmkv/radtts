@@ -40,5 +40,18 @@ Train the decoder:
 
     nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir > training_1st_stage.out 2>&1 &
 
+Train with the duration predictor:
 
+    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur"
+
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
+
+
+Run tensorboard
+
+    ~/.local/bin/tensorboard --logdir outdir/logs
+
+    or 
+
+    nohup ~/.local/bin/tensorboard --logdir outdir/logs > tensorboard.out 2>&1 &
 
