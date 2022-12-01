@@ -32,6 +32,25 @@ Download HiFiGAN
 
 TRAINING
 
+RADTTS
+
+Train the decoder:
+
+    cp configs/config_ljs_radtts.json config_ljs_radtts.json
+
+    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir
+
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir > training_1st_stage.out 2>&1 &
+
+Train with the duration predictor:
+
+    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_7000 model_config.include_modules="decatndur"
+
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_7000 model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
+
+
+RADTTS++
+
 Train the decoder:
 
     cp configs/config_ljs_decoder.json config_ljs_decoder.json
@@ -42,9 +61,9 @@ Train the decoder:
 
 Train with the duration predictor:
 
-    cp configs/config_ljs_agap.json config_ljs_agap.json
+    cp configs/config_ljs_dap.json config_ljs_dap.json
 
-    python3 train.py -c config_ljs_agap.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur"
+    python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_7000 model_config.include_modules="decatndur"
 
     nohup python3 train.py -c config_ljs_agap.json -p train_config.output_directory=outdir_dir train_config.warmstart_checkpoint_path=model_path.pt model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
 
@@ -57,3 +76,9 @@ Run tensorboard
 
     nohup ~/.local/bin/tensorboard --logdir outdir/logs > tensorboard.out 2>&1 &
 
+
+====
+
+INFERENCE
+
+python3 inference.py -c config_ljs_agap.json -r outdir/model_7000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/

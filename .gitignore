@@ -4,6 +4,8 @@ __pycache__
 
 models/
 outdir/
+outdir_pp/
+outdir_model/
 data_cache/
 
 config_ljs_radtts.json
@@ -12,3 +14,7 @@ config_ljs_decoder.json
 tensorboard.out
 training_1st_stage.out
 training_2nd_stage.out
+
+config_ljs_agap.json
+config_ljs_bgap.json
+config_ljs_dap.json
