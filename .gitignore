@@ -19,3 +19,5 @@ training_2nd_stage.out
 config_ljs_agap.json
 config_ljs_bgap.json
 config_ljs_dap.json
+
+results/

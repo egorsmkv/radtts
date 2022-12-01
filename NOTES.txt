@@ -44,9 +44,9 @@ Train the decoder:
 
 Train with the duration predictor:
 
-    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_7000 model_config.include_modules="decatndur"
+    python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndur"
 
-    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_7000 model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
 
 
 RADTTS++
@@ -81,4 +81,4 @@ Run tensorboard
 
 INFERENCE
 
-python3 inference.py -c config_ljs_agap.json -r outdir/model_7000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/
+python3 inference.py -c config_ljs_radtts.json -r outdir_model/model_1000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/
