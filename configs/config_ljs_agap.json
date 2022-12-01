@@ -71,7 +71,7 @@
         "cleaner_names": ["ukrainian_cleaners"],
         "heteronyms_path": "tts_text_processing/heteronyms",
         "phoneme_dict_path": "tts_text_processing/cmudict-0.7b",
-        "p_phoneme": 1.0,
+        "p_phoneme": 0.0,
         "handle_phoneme": "word",
         "handle_phoneme_ambiguous": "ignore",
         "include_speakers": null,
