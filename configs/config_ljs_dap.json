@@ -32,7 +32,7 @@
         },
         "binarization_start_iter": 0,
         "kl_loss_start_iter": 0,
-        "unfreeze_modules": "durf0energyvpred"
+        "unfreeze_modules": "all"
     },
     "data_config": {
         "training_files": {
