@@ -18,10 +18,10 @@ def replace_accents(x):
     return ''.join(final_chars)
 
 
-with open('filelists/lada_ukrainian_val_filelist.txt') as x:
+with open('filelists/original_lada_ukrainian_train_filelist.txt') as x:
     for l in x:
         l = l.strip()
         s = l.split('|')
-        fixed = s[1].replace('—','').replace('.','').replace(',','').replace('!','').replace('?','').replace('  ', ' ').lower().strip()
+        fixed = s[1].replace('—','').replace('  ', ' ').lower().strip()
         fixed = replace_accents(fixed)
         print(f'{s[0]}|{fixed}|{s[2]}')

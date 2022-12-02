@@ -1,63 +1,63 @@
-/home/yehor/radtts/dataset_lada_trimmed/accept/48848.wav|споч+атку вон+а нарахув+ала двох п+отім п'ять нар+ешті в+ісім|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48849.wav|мандрівник+и вп+ерто відмовл+ялися|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48850.wav|він уз+яв сок+иру й г+острим кінц+ем поч+ав розв+ажувати з+уби|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48851.wav|розгр+ібши сніг тр+охи прос+унув г+олову й пл+ечі під шатр+о|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48853.wav|ал+е раз зас+идівся до п+ізнього в+ечора|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48854.wav|то ж не дим їй +очі роз'їд+ав бо др+ова бул+и сух+і|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48855.wav|вон+а не м+ала теп+ер с+умніву що в портоса з д+амою бул+а інтр+ига|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48857.wav|х+очуть укра+їну з під л+яхів визвол+яти|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48858.wav|там жінк+ам не д+уже догодж+ають|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/48859.wav|і б+удьте спок+ійні якщ+о вин+о нам не спод+обається ми пошлем+о по +інше|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47868.wav|наш ґасконець ст+ежив за н+ею і б+ачив куд+и вон+а подал+ася|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47869.wav|а л+юди як дізн+алися то й почал+и вчащ+ати за п+озичкою|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47870.wav|як то вже з невдов+оленням спит+ав пан андр+ій|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47871.wav|ще раз верт+айся за гарм+атами одгукн+ув д+овбня|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47874.wav|все це кол+и сказ+ати вам по пр+авді панн++о ман+ю ан+і кр+ихти не звор+ушує мен+е|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47875.wav|почервон+ів як м+ідень гвинтовка|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47876.wav|а чи+я ж це кімн+ата спит+ав д'артаньян|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47877.wav|чи чув+ав ти бр+атику щоб миш одк+усила кол+и г+олову чолов+ікові|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47878.wav|ми зн+аємо цю іст+орію|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47879.wav|мушкет+ери вклон+илися нахил+ившись аж до к+інських трив|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47880.wav|див+іться ж щоб цю люд+ину звільн+ити і щоб не ст+алося з н+ею л+ихо як+есь|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47881.wav|прот+е я хот+ів би д+обре зрозум+іти її вк+инув сл+ово портос|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47882.wav|ченц+і їх проводж+али|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47883.wav|я вже й так бо+юсь щоб ч+ерез теб+е товар+иство мен+е не одцур+алось|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/47884.wav|ми д+ачі не даєм|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35418.wav|вон+и застр+елять вас мій др+уже|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35419.wav|алеж я вас не зн+аю і не х+очу скр+икнула я до нього|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35421.wav|сидж+у за газ+етою кол+и підв+ів +очі поб+ачив її|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35422.wav|підв+івши д+овгу м+орду до н+еба зав+одив протяжно і ж+алібно|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35423.wav|б+азен по+їхав на др+угий день вр+анці|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35424.wav|він уп+ав навк+олішки схоп+ив цю р+уку й шанобл+иво доторкн+увся до н+еї губ+ами|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35425.wav|вон+а вп+ала навзн+ак і здав+алось зомл+іла|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35426.wav|ну пропуст+іте ж нас кол+и так к+аже шрам|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35428.wav|д'артаньян сто+яв нерух+омий і прим+усив супрот+ивника ступ+ити крок наз+ад|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35429.wav|я сид+іла в їд+альні і сн+ідала|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35431.wav|ви зн+аєте напр|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35432.wav|і вон+а знес+илена вп+ала на гр+уди молод+ого офіц+ера|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35433.wav|од+ин із молод+их інд+ійців схоп+ив сп+иса і став напогот+ові|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35434.wav|а м+оже до як+ого ґ+азди|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35436.wav|звел+іла +їхати шв+идше щоб наздогн+ати сво+їх|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35437.wav|ал+е зап+ізно д'артаньян впізн+ав п+ані бонасьє|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35440.wav|а ч+ерез що ти б'+єшся атосе спит+ав араміс|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35443.wav|л+еся поблагослов+илась і піднесл+а|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35444.wav|з+автра з+араз кол+и ви побаж+аєте|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/35445.wav|оп+івдні д+обре я б+уду|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25158.wav|поб+ачимо чи+я б+уде с+ила|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25159.wav|хто ви так+ий і що вам тр+еба в+игукнула вон+а|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25160.wav|я т+ак+ож б'+юся з ним пром+овив наближ+аючись араміс|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25161.wav|ні не сп+итувалась та її спр+ава окр+ема|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25162.wav|то я пов+инен зн+ати де ваш піс+ок|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25163.wav|ми ще поб+ачимось п+ане чи не так|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25164.wav|та хто ж її вкрав|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25165.wav|у мен+е нем+а ан+і поко+ївок ан+і льокаїв|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25166.wav|бер+іть мо+ю р+уку переб+ив чужоз+емець і ход+ім|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25167.wav|пізн+іше відказ+ав атос мен+і тр+еба вж+ити д+еяких з+аходів|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25168.wav|а вр+ажий запор+ожець аж за бок+и бер+еться рег+очучи|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25169.wav|дурн+иці це все дрібн+иці|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25170.wav|та що під'+їхали нас бр+атчики так що т+ілько ушима стрепен+ули|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25171.wav|овв+а відпов+ів д'артаньян це том+у що я найбезтал+анніший з ус+іх вас|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25172.wav|у протил+ежному кінц+і м+іста|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25173.wav|д+айте мен+і сок+иру|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25174.wav|так там же н+аші козак+и|ljs
-/home/yehor/radtts/dataset_lada_trimmed/accept/25175.wav|я сл+ухаю вас сказ+ав той|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48848.wav|споч+атку вон+а нарахув+ала двох, п+отім п'ять, нар+ешті в+ісім.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48849.wav|мандрівник+и вп+ерто відмовл+ялися.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48850.wav|він уз+яв сок+иру й г+острим кінц+ем поч+ав розв+ажувати з+уби.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48851.wav|розгр+ібши сніг, тр+охи прос+унув г+олову й пл+ечі під шатр+о.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48853.wav|ал+е раз зас+идівся до п+ізнього в+ечора.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48854.wav|то ж не дим їй +очі роз'їд+ав, бо др+ова бул+и сух+і.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48855.wav|вон+а не м+ала теп+ер с+умніву, що в портоса з д+амою бул+а інтр+ига.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48857.wav|х+очуть укра+їну з під л+яхів визвол+яти.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48858.wav|там жінк+ам не д+уже догодж+ають.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/48859.wav|і б+удьте спок+ійні! якщ+о вин+о нам не спод+обається, ми пошлем+о по +інше.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47868.wav|наш ґасконець ст+ежив за н+ею і б+ачив, куд+и вон+а подал+ася.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47869.wav|а л+юди, як дізн+алися, то й почал+и вчащ+ати за п+озичкою.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47870.wav|як то? вже з невдов+оленням спит+ав пан андр+ій.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47871.wav|ще раз верт+айся за гарм+атами! одгукн+ув д+овбня.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47874.wav|все це, кол+и сказ+ати вам по пр+авді, панн++о ман+ю, ан+і кр+ихти не звор+ушує мен+е.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47875.wav|почервон+ів, як м+ідень, гвинтовка.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47876.wav|а чи+я ж це кімн+ата? спит+ав д'артаньян.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47877.wav|чи чув+ав ти, бр+атику, щоб миш одк+усила кол+и г+олову чолов+ікові?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47878.wav|ми зн+аємо цю іст+орію.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47879.wav|мушкет+ери вклон+илися, нахил+ившись аж до к+інських трив.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47880.wav|див+іться ж, щоб цю люд+ину звільн+ити, і щоб не ст+алося з н+ею л+ихо як+есь.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47881.wav|прот+е, я хот+ів би д+обре зрозум+іти її! вк+инув сл+ово портос.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47882.wav|ченц+і їх проводж+али.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47883.wav|я вже й так бо+юсь, щоб ч+ерез теб+е товар+иство мен+е не одцур+алось.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/47884.wav|ми д+ачі не даєм,.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35418.wav|вон+и застр+елять вас, мій др+уже.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35419.wav|алеж я вас не зн+аю і не х+очу! скр+икнула я до нього.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35421.wav|сидж+у за газ+етою, кол+и підв+ів +очі, поб+ачив її.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35422.wav|підв+івши д+овгу м+орду до н+еба, зав+одив протяжно і ж+алібно.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35423.wav|б+азен по+їхав на др+угий день вр+анці.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35424.wav|він уп+ав навк+олішки, схоп+ив цю р+уку й шанобл+иво доторкн+увся до н+еї губ+ами.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35425.wav|вон+а вп+ала навзн+ак і, здав+алось, зомл+іла.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35426.wav|ну, пропуст+іте ж нас, кол+и так, к+аже шрам.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35428.wav|д'артаньян сто+яв нерух+омий і прим+усив супрот+ивника ступ+ити крок наз+ад.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35429.wav|я сид+іла в їд+альні і сн+ідала.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35431.wav|ви зн+аєте, напр.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35432.wav|і вон+а, знес+илена, вп+ала на гр+уди молод+ого офіц+ера.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35433.wav|од+ин із молод+их інд+ійців схоп+ив сп+иса і став напогот+ові.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35434.wav|а м+оже до як+ого ґ+азди?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35436.wav|звел+іла +їхати шв+идше, щоб наздогн+ати сво+їх.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35437.wav|ал+е зап+ізно, д'артаньян впізн+ав п+ані бонасьє.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35440.wav|а ч+ерез що ти б'+єшся, атосе? спит+ав араміс.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35443.wav|л+еся поблагослов+илась і піднесл+а.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35444.wav|з+автра, з+араз, кол+и ви побаж+аєте!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/35445.wav|оп+івдні! д+обре, я б+уду.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25158.wav|поб+ачимо, чи+я б+уде с+ила!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25159.wav|хто ви так+ий і що вам тр+еба? в+игукнула вон+а.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25160.wav|я т+ак+ож б'+юся з ним, пром+овив, наближ+аючись, араміс.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25161.wav|ні, не сп+итувалась, та її спр+ава окр+ема.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25162.wav|то я пов+инен зн+ати, де ваш піс+ок.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25163.wav|ми ще поб+ачимось, п+ане, чи не так?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25164.wav|та хто ж її вкрав?|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25165.wav|у мен+е нем+а ан+і поко+ївок, ан+і льокаїв.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25166.wav|бер+іть мо+ю р+уку, переб+ив чужоз+емець, і ход+ім.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25167.wav|пізн+іше, відказ+ав атос, мен+і тр+еба вж+ити д+еяких з+аходів.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25168.wav|а вр+ажий запор+ожець аж за бок+и бер+еться, рег+очучи.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25169.wav|дурн+иці! це все дрібн+иці.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25170.wav|та що! під'+їхали нас бр+атчики так, що т+ілько ушима стрепен+ули!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25171.wav|овв+а, відпов+ів д'артаньян, це том+у, що я найбезтал+анніший з ус+іх вас.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25172.wav|у протил+ежному кінц+і м+іста.|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25173.wav|д+айте мен+і сок+иру!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25174.wav|так там же н+аші, козак+и!|ljs
+/home/yehor/radtts/dataset_lada_trimmed/accept/25175.wav|я сл+ухаю вас, сказ+ав той.|ljs

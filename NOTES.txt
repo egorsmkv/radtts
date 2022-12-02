@@ -4,7 +4,7 @@ Python: 3.8.13
 Install system packages:
 
     sudo apt update
-    sudo apt install python3-pip
+    sudo apt install python3-pip ffmpeg
 
 Install dependencies:
 
@@ -65,7 +65,7 @@ Train with the duration predictor:
 
     python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.warmstart_checkpoint_path=outdir_pp/model_1000
 
-    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.warmstart_checkpoint_path=outdir_pp/model_1000 > training_2nd_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.checkpoint_path=outdir_pp_model/model_18000 train_config.warmstart_checkpoint_path= > training_2nd_stage.out 2>&1 &
 
 
 Run tensorboard
@@ -74,7 +74,7 @@ Run tensorboard
 
     or 
 
-    nohup ~/.local/bin/tensorboard --bind_all --logdir outdir/logs > tensorboard.out 2>&1 &
+    nohup ~/.local/bin/tensorboard --bind_all --logdir outdir_pp_model/logs > tensorboard.out 2>&1 &
 
 
 ====
@@ -85,5 +85,10 @@ python3 inference.py -c outdir_pp_model/config.json -r outdir_pp_model/model_200
 
 
 
-python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_1000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/
+
+
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/generator_v1 -k models/config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results2/
+
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/generator_v1 -k models/config.json -t olha_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results3/
 

@@ -44,9 +44,9 @@ def get_symbols(symbol_set):
         _arpabet = ["@" + s for s in arpabet]
         symbols = list(_punctuation + _math + _special + _accented + _letters) + _arpabet
     elif symbol_set == 'ukrainian':
-        _punctuation = '\' '
+        _punctuation = '\'.,?! '
         _special = '-+'
-        _letters = 'абвгдежзийклмнопрстуфхцчшщьюяєії'
+        _letters = 'абвгґдежзийклмнопрстуфхцчшщьюяєії'
         symbols = list(_punctuation + _special + _letters)
     elif symbol_set == 'radtts':
         _punctuation = '!\'",.:;? '
