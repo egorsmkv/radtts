@@ -37,6 +37,8 @@ from hifigan_models import Generator
 from hifigan_env import AttrDict
 from hifigan_denoiser import Denoiser
 
+from pydub import AudioSegment
+
 
 def lines_to_list(filename):
     """
@@ -141,9 +143,17 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
                     i, take, speaker, token_dur_scaling, sigma, sigma_tkndur, sigma_f0,
                     sigma_energy)
 
-                    write("{}/{}_denoised_{}.wav".format(
-                        output_dir, suffix_path, denoising_strength),
+                    filename_w = "{}/{}_denoised_{}.wav".format(
+                        output_dir, suffix_path, denoising_strength)
+                    filename_w2 = "{}/{}_denoised_{}_16bit.wav".format(
+                        output_dir, suffix_path, denoising_strength)
+                    write(filename_w,
                         data_config['sampling_rate'], audio_denoised)
+                    
+                    f = AudioSegment.from_wav(filename_w)
+                    f.export(filename_w2, format="wav", parameters=["-sample_fmt", "s16"])
+
+                    os.remove(filename_w)
 
             if plot:
                 fig, axes = plt.subplots(2, 1, figsize=(10, 6))
