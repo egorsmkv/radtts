@@ -131,6 +131,7 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
                         energy_std=energy_std)
 
                     mel = outputs['mel']
+                    
                     audio = vocoder(mel).float()[0]
                     audio_denoised = denoiser(
                         audio, strength=denoising_strength)[0].float()
@@ -147,13 +148,18 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
                         output_dir, suffix_path, denoising_strength)
                     filename_w2 = "{}/{}_denoised_{}_16bit.wav".format(
                         output_dir, suffix_path, denoising_strength)
-                    write(filename_w,
-                        data_config['sampling_rate'], audio_denoised)
+                    filename_mel = "{}/{}_denoised_{}.mel".format(
+                        output_dir, suffix_path, denoising_strength)
                     
-                    f = AudioSegment.from_wav(filename_w)
-                    f.export(filename_w2, format="wav", parameters=["-sample_fmt", "s16"])
+                    torch.save(mel, filename_mel)
 
-                    os.remove(filename_w)
+                    # write(filename_w,
+                    #     data_config['sampling_rate'], audio_denoised)
+                    
+                    # f = AudioSegment.from_wav(filename_w)
+                    # f.export(filename_w2, format="wav", parameters=["-sample_fmt", "s16"])
+
+                    # os.remove(filename_w)
 
             if plot:
                 fig, axes = plt.subplots(2, 1, figsize=(10, 6))

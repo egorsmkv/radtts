@@ -63,9 +63,11 @@ Train with the duration predictor:
 
     cp configs/config_ljs_dap.json config_ljs_dap.json
 
-    python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.warmstart_checkpoint_path=outdir_pp/model_1000
+    python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.warmstart_checkpoint_path=outdir_pp/model_100000
 
-    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.checkpoint_path=outdir_pp_model/model_18000 train_config.warmstart_checkpoint_path= > training_2nd_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.warmstart_checkpoint_path=outdir_pp/model_100000 > training_2nd_stage.out 2>&1 &
+
+    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.checkpoint_path=outdir_pp_model/model_150000 train_config.warmstart_checkpoint_path= > training_2nd_stage.out 2>&1 &
 
 
 Run tensorboard
@@ -74,6 +76,7 @@ Run tensorboard
 
     or 
 
+    nohup ~/.local/bin/tensorboard --bind_all --logdir outdir_pp/logs > tensorboard.out 2>&1 &
     nohup ~/.local/bin/tensorboard --bind_all --logdir outdir_pp_model/logs > tensorboard.out 2>&1 &
 
 
@@ -88,7 +91,41 @@ python3 inference.py -c outdir_pp_model/config.json -r outdir_pp_model/model_200
 python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/hifigan_ljs_generator_v1.pt -k models/hifigan_22khz_config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results/
 
 
-python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/generator_v1 -k models/config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results2/
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_140000 -v models/generator_v1 -k models/config.json -t test_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results2/
 
-python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_80000 -v models/generator_v1 -k models/config.json -t olha_sentences.txt -s ljs --speaker_attributes ljs --speaker_text ljs -o results3/
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_150000 -v models/generator_v1 -k models/config.json -t olha_sentences.txt -s lada --speaker_attributes lada --speaker_text lada -o results3/
+
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_150000 -v models/generator_v1 -k models/config.json -t test_sentences.txt -s lada --speaker_attributes lada --speaker_text lada -o results2/
+
+
+---
+
+
+Autovocoder
+
+python3 train.py --config config.json --input_wavs_dir /home/yehor/AutoVocoder/lada_wavs --input_training_file /home/yehor/AutoVocoder/training_list.txt --input_validation_file /home/yehor/AutoVocoder/validation_list.txt  --data_path /home/yehor/AutoVocoder
+
+nohup python3 train.py --config config.json --input_wavs_dir /home/yehor/AutoVocoder/lada_wavs --input_training_file /home/yehor/AutoVocoder/training_list.txt --input_validation_file /home/yehor/AutoVocoder/validation_list.txt  --data_path /home/yehor/AutoVocoder > training.out 2>&1 &
+
+
+    nohup ~/.local/bin/tensorboard --bind_all --logdir cp_autovocoder/logs > tensorboard.out 2>&1 &
+
+
+inference
+
+python3 inference_file.py --input_mel_file ../radtts/results3/0_0_lada_durscaling1.0_sigma0.8_sigmatext0.666_sigmaf01.0_sigmaenergy1.0_denoised_0.0.mel --output_wav_file ../radtts/mel_demos/demo1.wav --checkpoint_file cp_autovocoder/g_00010000
+
+
+cd ../iSTFTNet-pytorch ; 
+
+FILE=0_0_lada_durscaling1.2_sigma0.3_sigmatext0.666_sigmaf01.0_sigmaenergy1.0_denoised_0.0.mel
+W_FILE=0_0_lada_durscaling1.2_sigma0.3_sigmatext0.666_sigmaf01.0_sigmaenergy1.0_denoised_0.0_ist.wav
+python3 inference_mel.py --checkpoint_file cp_hifigan/g_00035000 --input_mel_file ../radtts/results3/$FILE --output_file ../radtts/results3/$W_FILE
+
+
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_153000 -v models/generator_v1 -k models/config.json -t bazda.txt -s lada --speaker_attributes lada --speaker_text lada -o results/
+python3 inference_mel_folder.py --checkpoint_file cp_hifigan/g_00035000 --input_mel_folder_file ../radtts/results
+
+
+python3 inference.py -c config_ljs_dap.json -r outdir_pp_model/model_150000 -v models/generator_v1 -k models/config.json -t long_sentences.txt -s lada --speaker_attributes lada --speaker_text lada -o results3/ --sigma 0.3 --token_dur_scaling 1.2
 
