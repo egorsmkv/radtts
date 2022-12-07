@@ -8,6 +8,7 @@ outdir_pp/
 outdir_pp_model/
 outdir_model/
 data_cache/
+olha_pp_model/
 
 config_ljs_radtts.json
 config_ljs_decoder.json
@@ -25,3 +26,6 @@ results2/
 results3/
 
 olha_sentences.txt
+finetuning.out
+
+olha_ukrainian*

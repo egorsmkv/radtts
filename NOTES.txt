@@ -48,7 +48,6 @@ Train with the duration predictor:
 
     nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
 
-
 RADTTS++
 
 Train the decoder:
@@ -69,6 +68,14 @@ Train with the duration predictor:
 
     nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=outdir_pp_model train_config.checkpoint_path=outdir_pp_model/model_150000 train_config.warmstart_checkpoint_path= > training_2nd_stage.out 2>&1 &
 
+
+Fine-tune to another speaker:
+
+    cp configs/config_ljs_dap.json config_ljs_dap.json
+
+    python3 train.py -c config_ljs_dap.json -p train_config.output_directory=olha_pp_model train_config.ignore_layers_warmstart=["speaker_embedding.weight"] train_config.warmstart_checkpoint_path=models/radtts_model_153000
+
+    nohup python3 train.py -c config_ljs_dap.json -p train_config.output_directory=olha_pp_model train_config.ignore_layers_warmstart=["speaker_embedding.weight"] train_config.warmstart_checkpoint_path=models/radtts_model_153000 > finetuning.out 2>&1 &
 
 Run tensorboard
 
