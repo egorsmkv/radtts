@@ -1,6 +1,6 @@
 {
     "train_config": {
-        "output_directory": "/home/yehor/radtts/output",
+        "output_directory": "/home/yehor/RADTTS-Multiple-Voices/radtts/output",
         "epochs": 10000000,
         "optim_algo": "RAdam",
         "learning_rate": 1e-4,
@@ -39,7 +39,7 @@
             "LJS": {
                 "basedir": "filelists/",
                 "audiodir": "wavs",
-                "filelist": "lada_ukrainian_train_filelist.txt",
+                "filelist": "3speakers_ukrainian_train_filelist.txt",
                 "lmdbpath": ""
             }
         },
@@ -47,7 +47,7 @@
             "LJS": {
                 "basedir": "filelists/",
                 "audiodir": "wavs",
-                "filelist": "lada_ukrainian_val_filelist.txt",
+                "filelist": "3speakers_ukrainian_val_filelist.txt",
                 "lmdbpath": ""
             }
         },
@@ -76,7 +76,7 @@
         "handle_phoneme_ambiguous": "ignore",
         "include_speakers": null,
         "n_frames": -1,
-        "betabinom_cache_path": "/home/yehor/radtts/data_cache/",
+        "betabinom_cache_path": "/home/yehor/RADTTS-Multiple-Voices/radtts/data_cache",
         "lmdb_cache_path": "", 
         "use_attn_prior_masking": true,
         "prepend_space_to_text": true,
@@ -91,7 +91,7 @@
         "dist_url": "tcp://localhost:54321"
     },
     "model_config": {
-        "n_speakers": 1,
+        "n_speakers": 3,
         "n_speaker_dim": 16,
         "n_text": 185,
         "n_text_dim": 512,

@@ -4,11 +4,13 @@ __pycache__
 
 models/
 outdir/
+outdir_radtts/
 outdir_pp/
 outdir_pp_model/
 outdir_model/
 data_cache/
 olha_pp_model/
+outdir_model_with_durpred/
 
 config_ljs_radtts.json
 config_ljs_decoder.json

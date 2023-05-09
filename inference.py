@@ -153,13 +153,13 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
                     
                     torch.save(mel, filename_mel)
 
-                    # write(filename_w,
-                    #     data_config['sampling_rate'], audio_denoised)
+                    write(filename_w,
+                         data_config['sampling_rate'], audio_denoised)
                     
-                    # f = AudioSegment.from_wav(filename_w)
-                    # f.export(filename_w2, format="wav", parameters=["-sample_fmt", "s16"])
+                    f = AudioSegment.from_wav(filename_w)
+                    f.export(filename_w2, format="wav", parameters=["-sample_fmt", "s16"])
 
-                    # os.remove(filename_w)
+                    os.remove(filename_w)
 
             if plot:
                 fig, axes = plt.subplots(2, 1, figsize=(10, 6))

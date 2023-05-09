@@ -1,0 +1,85 @@
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48849.wav|мандрівник+и вп+ерто відмовл+ялися.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48850.wav|він уз+яв сок+иру й г+острим кінц+ем поч+ав розв+ажувати з+уби.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48851.wav|розгр+ібши сніг, тр+охи прос+унув г+олову й пл+ечі під шатр+о.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48853.wav|ал+е раз зас+идівся до п+ізнього в+ечора.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48854.wav|то ж не дим їй +очі роз'їд+ав, бо др+ова бул+и сух+і.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48855.wav|вон+а не м+ала теп+ер с+умніву, що в портоса з д+амою бул+а інтр+ига.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48857.wav|х+очуть укра+їну з під л+яхів визвол+яти.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48858.wav|там жінк+ам не д+уже догодж+ають.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48859.wav|і б+удьте спок+ійні! якщ+о вин+о нам не спод+обається, ми пошлем+о по +інше.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48830.wav|мій д+івер і я м+арно чек+али на вас вч+ора й позавч+ора.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48831.wav|п+ане д'артаньяне, ви п+ерший.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48832.wav|ось мо+я в+ідповідь.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48833.wav|хоч той так+и й д+ійсно д+урень.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48834.wav|ви давн+о не гр+али?|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48835.wav|теп+ер їм довел+ось зазн+ати д+оброї бід+и в цій кра+їні.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48836.wav|позавч+ора був пісн+ий день, а там подав+али лиш+е скор+омне.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48837.wav|і не потреб+уєте всі роб+ити.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48838.wav|у рук+ах у н+еї бул+а нов+а зап+иска міл+еді.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48839.wav|і ч+етверо др+узів одн+им г+олосом повтор+или прис+ягу, запропон+овану від д'артаньяна.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48841.wav|іг+уменя ст+ала сл+ухати ув+ажніш, тр+охи пожвав+іла й всміхн+улася.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48842.wav|так ти цьог+о не роб+и й не втрач+айся, бо одн+аково не пом+оже.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48843.wav|туд+и і рв+еться н+аша душ+а, кол+и х+очеш зн+ати.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48844.wav|б+олісно всміх+ався і трясс+я, як у проп+асниці.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48845.wav|я прив+ів тоб+і др+угого, сказ+ав д'артаньян.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48846.wav|я поб+ачу корол+я сьог+одні увечорі, ал+е вас не р+аджу наверт+атись йому на в+ічі.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48847.wav|ще весел+іш почал+и тод+і гомон+іти.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/lada/accept/48848.wav|споч+атку вон+а нарахув+ала двох, п+отім п'ять, нар+ешті в+ісім.|lada
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68540.wav|кр+аще вже пуст+ити соб+і к+улю в л+оба і відр+азу покл+асти всь+ому край.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68541.wav|ал+е сидяч+и за стол+ом, при п+иві, знов поч+ув як+есь невдов+олення.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68543.wav|на шабл+ях!|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68544.wav|вон+а пров+адила з незнай+омим д+уже жв+аву розм+ову.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68545.wav|офіц+ер взяв зі ст+олу вк+азані пап+ери, под+ав їх і, н+изько вклонившися, в+ийшов.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68546.wav|аж с+умно йому ст+ало.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68547.wav|житт+я не ласк+аве з багать+ох прич+ин.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68548.wav|так, звич+айно тр+еба, ств+ердила корол+ева.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68549.wav|вон+а, не зверн+увши ув+аги на цей д+ок+ір, промовл+яла д+алі.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68550.wav|зда+ється, не дочув+аю.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68551.wav|відв+ажний і завз+ятий, він не вп+ерше в+ажив сво+ї+++м житт+ям у так+их приг+одах.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68552.wav|як ч+асом, г+аво.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68553.wav|мій друг араміс, що оц+е сто+їть п+еред вами, здоб+ув легк+ого вд+ара шпад+ою в р+уку.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68554.wav|я знав+ець свог+о д+іла.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68556.wav|пог+онич леж+ав на с+анк+ах, а соб+аки шв+идко б+ігли пр+ямо до хат+ини.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68557.wav|міл+еді к+инулась до нього.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68558.wav|хто тоб+і сказ+ав?|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68559.wav|то й не поваж+ай, не зляк+аєш.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68560.wav|поясн+іть, бо я не розум+ію, що ви х+очете сказ+ати.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68561.wav|шрам наздогн+ав свій п+оїзд к+оло вис+оких вор+іт п+ана гвинтовки.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68562.wav|що ж він так+е?|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68563.wav|що це так+е? спит+ав портос.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/mykyta/accept/68565.wav|див+іться, тут зн+ову втруч+алася ц+ерква, з+авжд+и та ц+ерква.|mykyta
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67117.wav|а чолов+ік цьог+о жахл+ивого створ+іння ще жив+ий? зацік+авився араміс.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67118.wav|ви, дик, не ч+ули ці+єї т+иші.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67119.wav|він баг+атий на р+ок+и, шан+обу й сл+аву вел+ику.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67120.wav|в +осени зар+ані, ск+оро п+ісля сп+аса под+ався макс+им до київа.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67121.wav|а до н+еї п+ишеш?|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67122.wav|я, б+ачилось, н+авіть не люб+ив її так, як л+юблять зак+охані.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67123.wav|юрб+а провал+ила тим ч+асом м+имо петр+а.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67124.wav|хай так! приєдн+ався швайц+арець.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67125.wav|к+онюх підтв+ердив кардин+алові слов+а мушкет+ерів про атоса.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67126.wav|що завин+ив, те б+уду терп+іти.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67127.wav|чи є у вас тр+охи піск+у? ск+ільки? він показ+ав їй свій міш+ок.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67128.wav|я скаж+у це т+ільки том+у, хто прозирн+е в мо+ю д+ушу.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67129.wav|і в оц+ій хв+илі вон+а не міркув+ала тог+о.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67130.wav|ти б+ачив сво+ю ж?|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67132.wav|прот+е, тр+еба скл+асти як+ийсь плян б+ою, пром+овив араміс.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67133.wav|огого! д+уже швидк+а! так я теб+е й пуст+ив до богун+а!|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67134.wav|бог з тоб+ою, добр+одію!|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67135.wav|киценька! ти т+ямиш її?|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67136.wav|розм+ова поверн+ула на вес+еле.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67137.wav|розум+іється, сказ+ала вон+а к+оротко.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67138.wav|їй с+оромно ст+ало, що на оч+ах у всіх її так знев+ажено, і вон+а знен+авиділа фреду.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67139.wav|це бул+о м+ужнє обл+иччя.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67140.wav|св+екра зн+ала м+ало, не ч+асто й б+ачилася з ним, на рік раз+ів зо три.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67141.wav|спр+ава ця єсть особл+ивої делікатности.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67143.wav|я так отощ+ав, не +ївши зр+анку, що й р+адуватись незд+ужаю.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67145.wav|т+ільки в+ірна будь мен+і.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67146.wav|п'єр піш+ов за н+ею і відч+алив.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67147.wav|і по цих слов+ах к+инув торб+инку із з+олотом в р+ічку.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67148.wav|а, він в пор+ядку, сказ+ав нач+альник, та з чуд+овою рекоменд+ацією.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67149.wav|тод+і підожд+іть тр+ошки, зачек+айте.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67150.wav|із як+ими вістьми? пит+ає г+етьман.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67151.wav|стар+ий сарабр+ин міг л+егко пот+ішитися.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67152.wav|о, я, нещ+асний!|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67153.wav|кр+оки в сальоні.|tetiana
+/home/yehor/RADTTS-Multiple-Voices/datasets/tetiana/accept/67154.wav|щоб н+ашим ворог+ам бул+о т+яжко!|tetiana
