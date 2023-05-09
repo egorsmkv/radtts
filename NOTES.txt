@@ -46,7 +46,7 @@ Train with the duration predictor:
 
     python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndur"
 
-    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndur" > training_2nd_stage.out 2>&1 &
+    nohup python3 train.py -c config_ljs_radtts.json -p train_config.output_directory=outdir_model train_config.warmstart_checkpoint_path=outdir/model_8000 model_config.include_modules="decatndurC" > training_2nd_stage.out 2>&1 &
 
 RADTTS++
 
