@@ -67,7 +67,7 @@ def window_sumsquare(window, n_frames, hop_length=200, win_length=800,
     # Compute the squared window at the desired length
     win_sq = get_window(window, win_length, fftbins=True)
     win_sq = librosa_util.normalize(win_sq, norm=norm)**2
-    win_sq = librosa_util.pad_center(win_sq, n_fft)
+    win_sq = librosa_util.pad_center(win_sq, size=n_fft)
 
     # Fill the envelope
     for i in range(n_frames):
@@ -122,7 +122,7 @@ class TacotronSTFT(torch.nn.Module):
         self.sampling_rate = sampling_rate
         self.stft_fn = STFT(filter_length, hop_length, win_length)
         mel_basis = librosa_mel_fn(
-            sampling_rate, filter_length, n_mel_channels, mel_fmin, mel_fmax)
+            sr=sampling_rate, n_fft=filter_length, n_mels=n_mel_channels, fmin=mel_fmin, fmax=mel_fmax)
         mel_basis = torch.from_numpy(mel_basis).float()
         self.register_buffer('mel_basis', mel_basis)
 
@@ -214,7 +214,7 @@ class STFT(torch.nn.Module):
             assert(win_length >= filter_length)
             # get window and zero center pad it to filter_length
             fft_window = get_window(window, win_length, fftbins=True)
-            fft_window = pad_center(fft_window, filter_length)
+            fft_window = pad_center(fft_window, size=filter_length)
             fft_window = torch.from_numpy(fft_window).float()
 
             # window the bases
